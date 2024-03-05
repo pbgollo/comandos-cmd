@@ -43,9 +43,8 @@ O sistema é composto por várias funções que oferecem diferentes funcionalida
 - A função trocarCor() permite ao usuário alterar a cor do terminal.
 - As funções reiniciarComputador() e desligarComputador() oferecem a opção de reiniciar ou desligar o computador, respectivamente.
 - A função verPrevisaoDoTempo() exibe a previsão do tempo para uma determinada localização.
-- Cada função é chamada de acordo com a escolha do usuário no menu principal, que é implementado na função menuPrincipal().
 
-O código é estruturado de forma a utilizar condicionais e loops para controlar o fluxo do programa e interagir com o usuário.
+Cada função é chamada de acordo com a escolha do usuário no menu principal, que é implementado na função menuPrincipal(). O código é estruturado de forma a utilizar condicionais e loops para controlar o fluxo do programa e interagir com o usuário.
 
 ## 🤝 Colaboradores
 
