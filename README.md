@@ -1,12 +1,12 @@
-# Dicionário de Palavras: Implementação de ABPs
+# Lista de Comandos: Windows CMD
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/pbgollo/comandos-cmd?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/pbgollo/comandos-cmd?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/pbgollo/comandos-cmd?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="print.png" alt="Exemplo imagem">
 
-> A implementação apresentada é um sistema que visa criar um dicionário de palavras otimizado com busca eficiente, usando Árvores Binárias de Pesquisa (ABPs). Diferentes ABPs serão utilizadas para armazenar palavras começando com letras específicas, organizadas em ordem alfabética.
+> Este programa oferece uma interface de linha de comando para acessar e executar várias operações comuns do sistema, como acessar sites, verificar informações do sistema, pingar em um PC, entre outras.
 
 ## 🔧 Tecnologias Utilizadas
 
