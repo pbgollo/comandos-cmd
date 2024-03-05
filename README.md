@@ -6,11 +6,11 @@
 
 <img src="print.png" alt="Exemplo imagem">
 
-> Este programa oferece uma interface de linha de comando para acessar e executar várias operações comuns do sistema, como acessar sites, verificar informações do sistema, pingar em um PC, entre outras.
+> Este programa oferece uma interface de linha de comando para acessar e executar várias operações comuns do sistema, como acessar sites, verificar informações do sistema, pingar em um PC, entre outras. O código utiliza a função system() para executar comandos do sistema operacional.
 
 ## 🔧 Tecnologias Utilizadas
 
-No projeto, a principal tecnologia adotada foi a linguagem de programação C. O código utiliza a função system() para executar comandos do sistema operacional.
+No projeto, a principal tecnologia adotada foi a linguagem de programação C.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
