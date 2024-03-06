@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/pbgollo/comandos-cmd?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/pbgollo/comandos-cmd?style=for-the-badge)
 
-<img src="print.png" alt="Exemplo imagem">
+<img src="img.png" alt="Exemplo imagem">
 
 > Este programa oferece uma interface de linha de comando para acessar e executar várias operações comuns do sistema, como acessar sites, verificar informações do sistema, pingar em um PC, entre outras. O código utiliza a função system() para executar comandos do sistema operacional.
 
@@ -34,15 +34,7 @@ Para compilar e executar o aplicativo, siga estas etapas:
 
 O sistema é composto por várias funções que oferecem diferentes funcionalidades:
 
-- A função **acessarSite()** permite ao usuário acessar sites específicos, como intranet, e-mails, chamados, entre outros.
-- A função **verIPDaMaquina()** exibe o endereço IP da máquina.
-- A função **verInformacoesDoSistema()** mostra informações detalhadas sobre o sistema, como hardware e software.
-- A função **verListaDeProcessos()** lista os processos em execução no sistema.
-- A função **pingarEmUmPC()** permite ao usuário pingar um endereço IP específico.
-- A função **limparTela()** limpa a tela do terminal.
-- A função **trocarCor()** permite ao usuário alterar a cor do terminal.
-- As funções **reiniciarComputador()** e desligarComputador() oferecem a opção de reiniciar ou desligar o computador, respectivamente.
-- A função **verPrevisaoDoTempo()** exibe a previsão do tempo para uma determinada localização.
+
 
 Cada função é chamada de acordo com a escolha do usuário no menu principal, que é implementado na função menuPrincipal(). O código é estruturado de forma a utilizar condicionais e loops para controlar o fluxo do programa e interagir com o usuário.
 
