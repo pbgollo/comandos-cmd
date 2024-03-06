@@ -34,7 +34,23 @@ Para compilar e executar o aplicativo, siga estas etapas:
 
 O sistema é composto por várias funções que oferecem diferentes funcionalidades:
 
-
+- **acessarSite():** Permite ao usuário acessar um site específico usando o navegador Chrome.
+- **acessarPasta():** Permite ao usuário acessar uma pasta específica na rede.
+- **verIPDaMaquina():** Exibe o endereço IP da máquina do usuário.
+- **pingarEmUmPC():** Realiza um ping em um endereço IP específico.
+- **descobrirRotaDoIP():** Rastreia a rota de um endereço IP específico.
+- **verMapeamentoDeRede():** Exibe os mapeamentos de rede.
+- **verEstatisticasDeRede():** Exibe as estatísticas de rede.
+- **atualizarPolitica():** Atualiza a política de grupo.
+- **verResultadoDaPolitica():** Exibe o resultado da política de grupo.
+- **verInformacoesDoSistema():** Exibe informações do sistema.
+- **listarDrivers():** Lista os drivers instalados.
+- **verListaDeProcessos():** Lista os processos em execução.
+- **limparTela():** Limpa a tela do console.
+- **trocarCor():** Altera a cor do console.
+- **reiniciarComputador():** Reinicia o computador.
+- **desligarComputador():** Desliga o computador.
+- **verPrevisaoDoTempo():** Exibe a previsão do tempo.
 
 Cada função é chamada de acordo com a escolha do usuário no menu principal, que é implementado na função menuPrincipal(). O código é estruturado de forma a utilizar condicionais e loops para controlar o fluxo do programa e interagir com o usuário.
 
