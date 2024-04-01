@@ -6,7 +6,7 @@
 
 <img src="imagem.png" alt="Exemplo imagem">
 
-> Este programa oferece uma interface de linha de comando para acessar e executar várias operações comuns do sistema, como acessar sites, verificar informações do sistema, pingar em um PC, entre outras. O código utiliza a função **system()** para executar comandos do sistema operacional. É importante ressaltar que ele é compatível tanto com sistemas Linux quanto com sistemas Windows, garantindo que os usuários de ambos os sistemas operacionais possam aproveitar suas funcionalidades.
+> Este programa oferece uma interface de linha de comando para acessar e executar várias operações comuns do sistema, como acessar sites, verificar informações do sistema, pingar em um PC, entre outras. O código utiliza a função **"system()"** para executar comandos do sistema operacional. É importante ressaltar que ele é compatível tanto com sistemas Linux quanto com sistemas Windows, garantindo que os usuários de ambos os sistemas operacionais possam aproveitar suas funcionalidades.
 
 ## 🔧 Tecnologias Utilizadas
 
