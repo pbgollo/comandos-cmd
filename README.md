@@ -20,7 +20,6 @@ Antes de começar, verifique se você atende aos seguintes requisitos:
 
 - Você tem uma máquina que suporta a execução de programas em C
 - Você tem um compilador C instalado (por exemplo, GCC)
-- O sistema operacional é Windows
 
 ## 🚀 Executando o Projeto
 
